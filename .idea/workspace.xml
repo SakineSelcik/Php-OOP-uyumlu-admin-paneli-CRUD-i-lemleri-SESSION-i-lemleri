@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3330fc17-bba3-4341-974f-57e8156cd750" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="23YLQn15R3IBLgVuNIvShgXH0DW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\admin\netting" />
+      <recent name="C:\xampp\htdocs\admin" />
+      <recent name="C:\xampp\htdocs\admin\login.php" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3330fc17-bba3-4341-974f-57e8156cd750" name="Changes" comment="" />
+      <created>1641906059878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641906059878</updated>
+      <workItem from="1641906061378" duration="2818000" />
+      <workItem from="1641973542608" duration="4272000" />
+      <workItem from="1641983259022" duration="2000" />
+      <workItem from="1641987531633" duration="5435000" />
+      <workItem from="1644219416337" duration="11379000" />
+      <workItem from="1644308603066" duration="10287000" />
+      <workItem from="1644907193533" duration="3117000" />
+      <workItem from="1645095481698" duration="22090000" />
+      <workItem from="1645427290367" duration="1999000" />
+      <workItem from="1645616224135" duration="4260000" />
+      <workItem from="1646650384212" duration="23075000" />
+      <workItem from="1647251909862" duration="6362000" />
+      <workItem from="1647325978145" duration="11865000" />
+      <workItem from="1648020652133" duration="22492000" />
+      <workItem from="1648112016274" duration="753000" />
+      <workItem from="1648112785508" duration="76000" />
+      <workItem from="1648112864537" duration="26000" />
+      <workItem from="1648905373753" duration="47000" />
+      <workItem from="1648905423477" duration="27000" />
+      <workItem from="1648905470107" duration="54000" />
+      <workItem from="1648905562316" duration="9000" />
+      <workItem from="1648905573497" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
